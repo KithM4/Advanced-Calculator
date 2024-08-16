@@ -1,7 +1,8 @@
 # Advanced-Calculator
 Advanced Calculator is a project I developed as a student to practice my skills in HTML, CSS, and JavaScript. This calculator includes a variety of mathematical functions, from basic operations to more advanced features like factorials and trigonometric calculations. 
 
-![Mar-Business_11](https://user-images.githubusercontent.com/114678694/193993341-4915b37e-8de2-42a3-a940-8eb2b58aaedf.jpg)
+![3609083](https://github.com/user-attachments/assets/4c93e562-e5dc-4b3e-a2ee-4adaf11eb36d)
+
 ## Features
 
 ```
@@ -22,10 +23,6 @@ Advanced Calculator is a project I developed as a student to practice my skills 
 
 ## Tech Stack
 
-HTML
-CSS
-JavaScript
-
 - HTML
 - CSS
 - JAVASCRIPT
@@ -37,9 +34,8 @@ To deploy the project locally
 
 ## Screenshot
 
->Interface of the **Calculator**
-Interface of the Advanced Calculator
+>Interface of the **Advanced Calculator**
 
-![image](https://user-images.githubusercontent.com/48837703/215178413-15e5d827-f7ad-4204-b5a1-80778cac6d21.png)
+![image](https://github.com/user-attachments/assets/81401fb4-7246-49ea-8584-f9e179d8663f)
 
 If you appreciate this project, please consider starring it 🌟
